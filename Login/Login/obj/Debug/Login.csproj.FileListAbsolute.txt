@@ -1,0 +1,48 @@
+C:\Users\Admin\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Admin\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\Admin\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form2.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form3.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form4.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form5.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form6.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form7.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form8.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form9.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form10.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form11.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form12.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form13.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form14.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form15.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\bin\Debug\Login.exe.config
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\bin\Debug\Login.exe
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\bin\Debug\Login.pdb
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form1.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form10.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form11.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form12.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form13.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form14.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form15.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form2.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form3.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form4.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form5.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form6.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form7.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form8.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Form9.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.exe
+D:\Projects for jobs\Movie ticket booking system\TEMA_BD\Login\Login\obj\Debug\Login.pdb
